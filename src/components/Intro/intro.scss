@@ -84,3 +84,9 @@
     transform: rotateX(90deg);
   }
 }
+
+@media screen and (max-width:480px) {
+  .cubespinner{
+    display: none;
+  }
+}

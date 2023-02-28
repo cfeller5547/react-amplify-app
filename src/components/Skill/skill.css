@@ -1,4 +1,4 @@
-.p{
+.s{
     width: 30%;
     height: 40vh;
     margin: 20px 10px;
@@ -7,6 +7,13 @@
     overflow: hidden;
 }
 
-.p-img{
+.s-img{
     width: 100%;
 }
+
+@media screen and (max-width:480px) {
+    .s{
+      width:43%;
+      height: 20vh;
+    }
+  }
