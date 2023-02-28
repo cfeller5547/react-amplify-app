@@ -21,10 +21,14 @@ const About = () => {
             Passionate about all things technology
           </p>
           <p className="a-desc">
-            The industry of technology is constantly evolving and never certain.
-            This raises the importance of one's ability to adapt and learn these 
-            fundamental concepts. My passion for programming/technology has allowed me to 
-            refine my skills and achieve profiency in several areas relevant to my degree.
+          The rapidly evolving nature of the technology industry highlights 
+          the importance of adaptability and continuous learning. 
+          My passion for programming and technology, combined with 
+          my drive to expand my knowledge, has enabled me to develop proficiency 
+          in several relevant areas related to my degree. 
+          I recognize the need to remain up-to-date with emerging technologies 
+          and methodologies, and I am committed to refining my skills to 
+          stay competitive in this dynamic field.
           </p>
           <div className="a-sdsulogo">
             <img src={sdsulogo} alt="" className="a-sdsulogo-img" />
