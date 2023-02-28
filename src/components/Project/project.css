@@ -1,0 +1,21 @@
+
+.projects{
+  width: 30%;
+  height: 40vh;
+  margin: 20px 10px;
+  border: 2px solid rgb(243, 242, 242);
+  border-radius: 20px 20px 20px 20px;
+  overflow: hidden;
+}
+
+.projects-img{
+  width: 100%;
+}
+
+.projects:hover {
+  box-shadow: 0px 3px 15px rgba(0, 0, 0, 1.0);
+  transition: 0.3s ease-in;
+  cursor: pointer;
+}
+  
+  
