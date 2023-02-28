@@ -45,4 +45,8 @@ export const skills = [
         id: 11,
         img: "https://dsm01pap003files.storage.live.com/y4mLpItTO5KobXrgLojtqo--slk4ocNQGQHlGAfcwMpUpx2_4LesqL1iumyUuoN1iGFncbJ7MYV7yvJwhCVeWL2ZQYXFOU7Pk-XJf8TuwGvSK6x_aMP9hU37HDrikbSjCM1V5ArJ3s6B8Wq1FsywJiQTJIsEFuli0BLWSPixoC0R-egHS54VHx-6iKHhab-sCaD?width=914&height=705&cropmode=none",
     }, 
+    { //git version control
+        id: 12,
+        img: "https://dsm01pap003files.storage.live.com/y4mYZ6rmfATcz6TMbevfiuj4uQhAW2oBiyO-z-KrceeaIiM-UnDechxm31w9dklVz85CJHicnj0JPIFm4A72P43DK_KpWhlLwlWHqBRmLWVwUOWRF6gwSNM4LVpSZKm40cVAZwBvRjGvmEHegGdeTWx-JufOaiReVVxRviV6j0plLJRWGdZnaiyJC43zMUCqTYW?width=909&height=780&cropmode=none",
+    }
 ];
