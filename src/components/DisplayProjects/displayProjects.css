@@ -1,6 +1,6 @@
 .project {
   width: 100%;
-  height: calc(160vh - 100px);
+  height: calc(160vh);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -50,6 +50,18 @@
   .project p {
     font-size: 18px;
   }
+}
+
+.video-stickordie-container {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 0 5px rgba(105, 105, 105, 0.596);
+}
+
+.video-stickordie {
+  box-shadow: 0 0 5px rgba(105, 105, 105, 0.596);
 }
 
 .video-container {
