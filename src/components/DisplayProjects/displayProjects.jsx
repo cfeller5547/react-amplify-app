@@ -3,6 +3,8 @@ import { useParams } from "react-router-dom";
 import {projects} from '../../datapl'
 import "./displayProjects.css"
 import playmediabtn from "../../img/playmediabtn.png";
+import ReactPlayer from 'react-player'
+
 
 const DisplayProjects = () => {
     const { id } = useParams();
@@ -14,9 +16,13 @@ const DisplayProjects = () => {
         <p>
             <b>Description: </b> {project.description}
         </p>
-        
+        <h1>From Concept to Reality: Our App Journey</h1>
+        <div className="video-container">
+            <ReactPlayer url={project.videoUrl} controls className="video"/>
+            <ReactPlayer url={project.videoUrl2} controls className="video"/>
+        </div>
     </div>
     );
-}
+};
 
 export default DisplayProjects;

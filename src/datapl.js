@@ -1,4 +1,6 @@
 
+
+
 export const projects = [
 
     {    //stickordie pic
@@ -11,8 +13,9 @@ export const projects = [
         id: 2,
         img: "https://dsm01pap003files.storage.live.com/y4mg5QdHWhepKfXvaUDfUHWudL5eA0fJCD6bYL6da5YMDHavMETiJTQTKw11RRcv1nDMg_Heswe7a0coIMb7WeGw2IDNU6_1jphW18tvZpwMSP8IZrI6wlWlW4Fr6Bp94Ah_JbsrLbYNHx-OzGGogykXFLNgIcAt9bzNAgeRquUQfI4oMXGqprMhayU3944CZQ2?width=909&height=701&cropmode=none", 
         logoImg: "https://dsm01pap003files.storage.live.com/y4mHcgQL7_mAG3VtMkgAVQxTK0fWBZJwyvvShiip-LivBgPgSKr7MJ-j5GugZuaQJI6bXR-jmF6kpYZyV7fMUJRc18bnW6h8lXQgBo9NMPpg94yqqSk04E0E0FmjjObRy1nd3CuFsoRAh8RsyGCLdm2BhMQgJ-tHie2ekMG3L7X8fNJQ0HhOke0bxODCuDSGQK_?width=1134&height=720&cropmode=none",
-        description: "Diamond Run is a native android mobile game currently being built using Android Studio with multiplayer incorporated into it. Some technologies utilized include Java, a Firebase cloud-hosted NoSQL Realtime Database, XML Layout files, various data structures"
-        
+        description: "Diamond Run is a native android mobile game currently being built using Android Studio with multiplayer incorporated into it. Some technologies utilized include Java, a Firebase cloud-hosted NoSQL Realtime Database, XML Layout files, various data structures",
+        videoUrl: "https://www.dropbox.com/s/bgs6btvet0dhg19/diamondrunmultiplayer.mp4?dl=0",
+        videoUrl2: "https://www.dropbox.com/s/bsz9iivh5ojl2ng/Diamond%20Run%20Ad.mp4?dl=0",
     },
     {   //ai pic
         id: 3,
