@@ -16,11 +16,16 @@ const DisplayProjects = () => {
         <p>
             <b>Description: </b> {project.description}
         </p>
-        <h1>From Concept to Reality: Our App Journey</h1>
-        <div className="video-container">
-            <ReactPlayer url={project.videoUrl} controls className="video"/>
-            <ReactPlayer url={project.videoUrl2} controls className="video"/>
+        
+        {id === "1" && (
+        <div>
+            <h1 style={{ textAlign: "center" }}>From Concept to Reality: Our App Journey</h1>
+            <div className="video-container">
+                <ReactPlayer url={project.videoUrl} controls className="video"/>
+                <ReactPlayer url={project.videoUrl2} controls className="video"/>
+            </div>
         </div>
+        )}
     </div>
     );
 };
