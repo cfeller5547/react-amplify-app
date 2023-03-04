@@ -4,7 +4,7 @@ import {projects} from '../../datapl';
 import "./displayProjects.css";
 import stickordielogo from "../../img/stickordielogo.png";
 import ReactPlayer from 'react-player';
-import StickOrDieVideo from "../../video/stickordievideo.mp4";
+
 
 const DisplayProjects = () => {
     const { id } = useParams();
@@ -25,7 +25,7 @@ const DisplayProjects = () => {
         <h1>{project.header}</h1>
         {id === "0" && (
         <div className="video-stickordie-container">
-            <ReactPlayer url={StickOrDieVideo} controls className="video-stickordie"/>
+            <ReactPlayer url={project.videoUrl} controls className="video-stickordie"/>
         </div>
         )}
         {id === "1" && (
