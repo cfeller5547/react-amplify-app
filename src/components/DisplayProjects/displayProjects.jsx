@@ -1,10 +1,10 @@
 import React from "react";
 import { useParams } from "react-router-dom";
-import {projects} from '../../datapl'
-import "./displayProjects.css"
+import {projects} from '../../datapl';
+import "./displayProjects.css";
 import stickordielogo from "../../img/stickordielogo.png";
-import ReactPlayer from 'react-player'
-import StickOrDieVideo from "../../video/stickordievideo.mp4"
+import ReactPlayer from 'react-player';
+import StickOrDieVideo from "../../video/stickordievideo.mp4";
 
 const DisplayProjects = () => {
     const { id } = useParams();
