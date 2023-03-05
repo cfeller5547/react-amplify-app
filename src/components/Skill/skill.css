@@ -3,7 +3,8 @@
     height: 40vh;
     margin: 20px 0px;
     border: 1px solid rgb(243, 242, 242);
-    border-radius: 0px 0px 0px 0px;
+    border-radius: 10px 10px 0px 0px;
+    overflow: hidden;
 }
 
 .s-img{
@@ -13,7 +14,7 @@
 @media screen and (max-width:480px) {
     .s{
       width:48%;
-      
+      border-radius: 0px 0px 0px 0px;
       height: 20vh;
     }
   }
