@@ -3,8 +3,7 @@
     height: 40vh;
     margin: 20px 0px;
     border: 1px solid rgb(243, 242, 242);
-    border-radius: 10px 10px 0px 0px;
-    overflow: hidden;
+    border-radius: 0px 0px 0px 0px;
 }
 
 .s-img{
