@@ -24,9 +24,9 @@ const DisplayProjects = () => {
         </p>
         <h1>{project.header}</h1>
         {id === "0" && (
-        <div className="video-stickordie-container">
-            <ReactPlayer url={project.videoUrl} controls className="video-stickordie"/>
-        </div>
+        
+         <ReactPlayer url={project.videoUrl} controls className="video-stickordie"/>
+        
         )}
         {id === "1" && (
         <div className="video-container">

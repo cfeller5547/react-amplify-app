@@ -32,6 +32,13 @@
     padding: 10px;
   }
 
+  .pl-list{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
   .pl-texts{
     width:100%;
   }

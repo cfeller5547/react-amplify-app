@@ -1,8 +1,8 @@
 .s{
     width: 30%;
     height: 40vh;
-    margin: 20px 10px;
-    border: 2px solid rgb(243, 242, 242);
+    margin: 20px 0px;
+    border: 1px solid rgb(243, 242, 242);
     border-radius: 10px 10px 0px 0px;
     overflow: hidden;
 }
@@ -13,7 +13,8 @@
 
 @media screen and (max-width:480px) {
     .s{
-      width:43%;
+      width:48%;
+      
       height: 20vh;
     }
   }

@@ -30,9 +30,18 @@
 
     .sl{
       padding: 10px;
+      
     }
-  
+
+    .sl-list {
+        display: flex;
+        justify-content: center;
+        width: 110%;
+        
+      }
+      
     .sl-texts{
       width:100%;
+      
     }
   }
