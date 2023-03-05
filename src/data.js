@@ -48,5 +48,17 @@ export const skills = [
     { //git version control
         id: 12,
         img: "https://dsm01pap003files.storage.live.com/y4mYZ6rmfATcz6TMbevfiuj4uQhAW2oBiyO-z-KrceeaIiM-UnDechxm31w9dklVz85CJHicnj0JPIFm4A72P43DK_KpWhlLwlWHqBRmLWVwUOWRF6gwSNM4LVpSZKm40cVAZwBvRjGvmEHegGdeTWx-JufOaiReVVxRviV6j0plLJRWGdZnaiyJC43zMUCqTYW?width=909&height=780&cropmode=none",
-    }
+    },
+    { //react
+        id: 13,
+        img: "https://dsm01pap003files.storage.live.com/y4mW1vyh_nZquk88OWZ1zScYWHKA36QK8UwByfHN4EmU9ea0XX5vl037NHHTL7W3xVxKZTf7E2GtCiR03Pr7y65UcxFaPgI6NAFMsP4Q9COegROHv6D0HIf1iblv_NlZySjUmaTQTd5hNzIjrxZ_lHr_yDXOOiQ3wEJEQjToTolx9lsaCanY-uGOshsT8aDm0Wn?width=909&height=710&cropmode=none",
+    },
+    { //JS
+        id: 14,
+        img: "https://dsm01pap003files.storage.live.com/y4mkHyQ3AXGbdv3KAveOYSDc7o1aUdhIEBszrCn918PJKlJL9pGwE6zM5cPjH99pKDHzro08Izs60qO2l2TczfufSJ0itdPskwf_ZOAgT0T-rpmgx9O6KGO3Quv06n5TpCywUwfWF55OWzfiRN-xDuPtlSKGRwaJ3M7sQ2LNUHstP8qN6BaER7KOp9AC91RcVge?width=908&height=700&cropmode=none",
+    },
+    { //Eclipse
+        id: 15,
+        img: "https://dsm01pap003files.storage.live.com/y4mzx46QhVZndMsnjEK7E4fec2MyqAqgez4bPMK7B3SDCEA3ImDgwvwvv_UshM-xbdQKvGzlzxvSdFXq3ZShslwB_fWNSLynZQVloO5154gqSXhNwVF501J6z24KL-Nod9Vhz0fa4UDeS_eq4iwPyOeOJFUYubPJuTWf7rEEAVtlo_lb-WnpTNL61B_riifLyA-?width=909&height=700&cropmode=none",
+    },
 ];
