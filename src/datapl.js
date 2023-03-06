@@ -23,7 +23,7 @@ export const projects = [
     {   //ai 
         id: 3,
         img: "https://dsm01pap003files.storage.live.com/y4mR7NMVw7DTiHpHjW3emB3wbiehbInvPvblW2eq7-y7GJAmPfDglJHGPJf-IHs9bXHBAd1KrEsM5aLGYNt22Yf9SuVJ41yRt3_GQ8CzT2u2XTKeU0I2y_KrvV8Yz1EDN0WkxWWklYAG-vXI0Kw-zdNEvDeIj3kLphSW6ILhg5478vXwV9FNhsN-YgGH8na4VXT?width=909&height=700&cropmode=none",
-        description: "Working with a team following the Agile framework Scrum for a Semantic Primes project isolated on a virtual machine. Involving a database, a Machine Learning model, Word2Vec Algorithm, KNN Algorithm. I have been assigned the role of creating the model.",
+        description: "Working with a team following the Agile framework Scrum for a Semantic Primes project isolated on a virtual machine. Involving a database, Natural Language Toolkit(NLTK), a Machine Learning model, Word2Vec Algorithm, KNN Algorithm. I have been assigned the role of creating the model.",
         header: "Updates Coming Soon..",
     },
 ];
