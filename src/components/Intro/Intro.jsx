@@ -19,8 +19,8 @@ const Intro = () => {
             </div>
           </div>
           <p className="i-desc">
-            I am a college student learning fundamental concepts of software engineering through 
-            courses and hands on training.
+            I am a college student and a software engineering intern at Seamgen learning fundamental concepts of software engineering through 
+            courses and hands on-experience.
           </p>
           <div className="stage-cube-cont">
             <div className="cubespinner">
