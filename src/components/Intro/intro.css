@@ -84,8 +84,15 @@
       text-align: center;
       height: 100%;
     }
+
+    .i-img {
+      width: 100%;
+      height: 110%;
+      object-fit: cover;
+      position: absolute;
+    }
   
-    .i-desc{
+    .i-desc {
       display: none;
     }
     
