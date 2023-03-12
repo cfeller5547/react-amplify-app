@@ -34,6 +34,11 @@ const DisplayProjects = () => {
             <ReactPlayer url={project.videoUrl2} controls className="video"/>
         </div>
         )}
+         {id === "2" && (
+        <div className="video-container">
+            <ReactPlayer url={project.videoUrl} controls className="video"/>
+        </div>
+        )}
     </div>
     );
 };
