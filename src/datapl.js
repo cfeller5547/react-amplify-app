@@ -23,6 +23,7 @@ export const projects = [
     {   //ai 
         id: 3,
         img: "https://dsm01pap003files.storage.live.com/y4mR7NMVw7DTiHpHjW3emB3wbiehbInvPvblW2eq7-y7GJAmPfDglJHGPJf-IHs9bXHBAd1KrEsM5aLGYNt22Yf9SuVJ41yRt3_GQ8CzT2u2XTKeU0I2y_KrvV8Yz1EDN0WkxWWklYAG-vXI0Kw-zdNEvDeIj3kLphSW6ILhg5478vXwV9FNhsN-YgGH8na4VXT?width=909&height=700&cropmode=none",
+        logoImg: "https://dsm01pap003files.storage.live.com/y4m6WSBz8NqLyxv3_25pbC0J7f0jmx9fAC_Ge0P-nD5V2dLF5NTaBveLR7f29iijZK79qOotvz3Skf121PeJYUpd1-f2nTfCmyHDw4jO4t_hiSpL5BR_DP1FGvgTZY3uSIPxpBGvC4R6lrjRa5QWNRvzLhfCb7vLQYL2lAijvqm_h1QGBStLD8azs2lDoRemLP0?width=1056&height=748&cropmode=none",
         description: "Working with a team on a Semantic Primes project, following the Agile framework Scrum isolated on a virtual machine. Involving a database, Natural Language Toolkit (NLTK), Word2Vec neural network-based language model, KNN Algorithm. I have been assigned the role of creating the model.",
         videoUrl: "https://www.dropbox.com/s/w7zglkkyrqouci5/Untitled%20video%20%283%29.mp4?dl=0",
         header: "Our AI Club Project Journey",
