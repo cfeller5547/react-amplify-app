@@ -6,7 +6,6 @@ export const projects = [
     {    //stickordie 
         id: 1,
         img: "https://dsm01pap003files.storage.live.com/y4mwUa4NkEbFx6lBlctjCHp5dMkn5WYV1fE9HMCB0rcA-Nfz2fCbo7tLiI2X2TsLgPu3XnHt-bQ_QEF34fo-7APDmvig53h_A18ppmTaKE2Gx1vdH2mKrJTSPosM71o35Y0-G0bfUw7J2oa9T8uxOcOACnkz3DN6sYGnoh_WlgiKK45-VR3FzLGsRG9nr6qs4bM?width=907&height=699&cropmode=none",
-        logoImg: "https://drive.google.com/file/d/1e6F14gEDWdT-9YlxnA8_WtGusuVE5v4P/view?usp=share_link",
         description: "Stick or Die is a native android mobile game developed which has resulted in a refinement of my skills in OOP. Some technologies utilized include Java, Google Play Games APIs to create a global leaderboard, XML Layout files, various data structures. Objective is to jump from platform to platform while avoiding the spikes. Speed increases progressively to increase difficulty.",
         videoUrl: "https://www.dropbox.com/s/gv5ycy5m9enb3aj/stickordievideo.mp4?dl=0",
         header: "Stick Or Die - A Demo Video",
